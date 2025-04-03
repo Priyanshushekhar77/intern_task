@@ -1,0 +1,18 @@
+/* Add some basic styling */
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
